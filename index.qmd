@@ -1,0 +1,19 @@
+---
+title: "Josefa Cabezas"
+---
+
+::: {.columns}
+
+::: {.column width="65%"}
+Hi! I am a researcher interested in analysing education systems through field and online experiments using behavioral economics tools.
+
+Most of all, I like connecting and communicating research and its findings in simple and useful ways, both for people in other fields of research and those not in research at all. I am a firm believer in clear and simple communication for a better future.
+
+This website collects my CV, research projects, academic and professional trajectory, and occasional reflections on topics I like and am interested in.
+:::
+
+::: {.column width="35%"}
+![](images/josefaProfile.jpg){width=100%}
+:::
+
+:::

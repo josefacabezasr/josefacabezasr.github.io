@@ -1,0 +1,35 @@
+---
+title: "Research Projects"
+---
+
+# Current Research
+
+## Behavioral Nudge Field Experiment for Breast Cancer Screening
+
+**Collaborators:** D. Schwartz and S. Mondschein
+
+This project studies whether behavioral nudges can increase participation in breast cancer screening programs. Using a field experiment, we evaluate how different communication strategies affect patient engagement and follow-through.
+
+*Status:* Work in progress.
+
+---
+
+## Humanized AI Avatars and Messenger Gender in Dental Post-Procedure Instructions
+
+**Collaborators:** D. Schwartz and D. Benadof
+
+This project examines how humanized AI avatars and messenger characteristics influence patients’ adherence to post-procedure instructions. The study consists of two randomized experiments focused on communication effectiveness in healthcare contexts.
+
+*Status:* Revise and resubmit at JMIR.
+
+---
+
+# Publications
+
+## Identifying Factors Predicting Kidney Graft Survival in Chile Using Elastic-Net-Regularized Cox Regression
+
+**With:** L. Magga, S. Maturana, M. Olivares, M. Valdevenito, J. Chapochnik, F. González, A. Kompatzki, H. Müller, J. Pefaur, C. Ulloa, and R. Valjalo
+
+Published in *Medicina* (2022).
+
+This paper develops predictive models for kidney graft survival using regularized survival analysis techniques applied to Chilean transplant data.

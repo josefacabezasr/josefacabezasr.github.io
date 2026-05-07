@@ -1,0 +1,21 @@
+---
+title: "Trajectories"
+---
+
+# Forest Studio
+
+At ETH Zürich, I currently contribute to the development of *Forest Studio*, a forest dynamics model designed both for teaching and for practical forestry applications.
+
+The model simulates forest development at the tree level, incorporating modules for growth, mortality, regeneration, thinning, and clear-cut management. One of its distinguishing features is its focus on individual trees rather than aggregated tree groups, allowing for more flexible and detailed management analysis.
+
+A central focus of the project is the management component — particularly thinning strategies — which aims to make the model useful not only as an educational tool, but also as a practical decision-support system for forestry practitioners.
+
+My work involves model development, data analysis, and the translation of complex modeling concepts into tools that are both technically robust and usable in practice.
+
+# Other Directions
+
+My broader interests lie in the intersection of:
+- applied modeling,
+- human behavior,
+- decision-making,
+- and communication of complex systems.

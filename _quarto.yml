@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Josefa Cabezas"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: research-projects.qmd
+        text: Research
+      - href: trajectories.qmd
+        text: Trajectories
+      - href: blog.qmd
+        text: Blog
+
+format:
+  html:
+    theme: cosmo
+    toc: true

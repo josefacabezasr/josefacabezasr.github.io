@@ -1,0 +1,9 @@
+---
+title: "Blog"
+listing:
+  contents: blog/posts
+  sort: "date desc"
+  type: default
+---
+
+A collection of everything I consider worth sharing.
