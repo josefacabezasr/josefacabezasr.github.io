@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Josefa Cabezas",
     "section": "",
-    "text": "Hi! I am a researcher interested in analysing education systems through field and online experiments using behavioral economics tools.\nMost of all, I like connecting and communicating research and its findings in simple and useful ways, both for people in other fields of research and those not in research at all. I am a firm believer in clear and simple communication for a better future.\nThis website collects my CV, research projects, academic and professional trajectory, and occasional reflections on topics I like and am interested in."
+    "text": "Hi! I am an applied researcher interested in how simple, behaviorally informed interventions can reduce inequality in education.\nMy background combines field experiments, data work, model development, and research communication. My master’s thesis studied behavioral barriers preventing women from undergoing mammography screening, and I currently work at ETH Zurich supporting data, modelling, and tool development in a research group.\nI am especially interested in experimental economics, economics of education, parental involvement, educational transitions, and interventions that help research travel into practice.\nI strongly believe in clear and simple research communication for a better future.\nThis website collects my CV, research projects, academic and professional trajectory, and occasional reflections on topics I like and am interested in."
   },
   {
     "objectID": "relections.html",
@@ -39,7 +39,7 @@
     "href": "research-projects.html",
     "title": "Research Projects",
     "section": "",
-    "text": "Collaborators: D. Schwartz and S. Mondschein\nThis project studies whether behavioral nudges can increase participation in breast cancer screening programs. Using a field experiment, we evaluate how different communication strategies affect patient engagement and follow-through.\nStatus: Work in progress.\n\n\n\n\nCollaborators: D. Schwartz and D. Benadof\nThis project examines how humanized AI avatars and messenger characteristics influence patients’ adherence to post-procedure instructions. The study consists of two randomized experiments focused on communication effectiveness in healthcare contexts.\nStatus: Revise and resubmit at JMIR."
+    "text": "Collaborators: D. Schwartz and S. Mondschein\nThis project studies whether behavioral nudges can increase participation in breast cancer screening programs. Using a field experiment, we evaluate how different communication strategies affect patient engagement and follow-through.\nStatus: Work in progress.\n\n\n\n\nCollaborators: D. Schwartz and D. Benadof\nThis project examines how humanized AI avatars and messenger characteristics influence patients’ adherence to post-procedure instructions. The study consists of two randomized experiments focused on communication effectiveness in healthcare contexts.\nStatus: Accepted at JMIR."
   },
   {
     "objectID": "research-projects.html#behavioral-nudge-field-experiment-for-breast-cancer-screening",
@@ -53,7 +53,7 @@
     "href": "research-projects.html#humanized-ai-avatars-and-messenger-gender-in-dental-post-procedure-instructions",
     "title": "Research Projects",
     "section": "",
-    "text": "Collaborators: D. Schwartz and D. Benadof\nThis project examines how humanized AI avatars and messenger characteristics influence patients’ adherence to post-procedure instructions. The study consists of two randomized experiments focused on communication effectiveness in healthcare contexts.\nStatus: Revise and resubmit at JMIR."
+    "text": "Collaborators: D. Schwartz and D. Benadof\nThis project examines how humanized AI avatars and messenger characteristics influence patients’ adherence to post-procedure instructions. The study consists of two randomized experiments focused on communication effectiveness in healthcare contexts.\nStatus: Accepted at JMIR."
   },
   {
     "objectID": "research-projects.html#identifying-factors-predicting-kidney-graft-survival-in-chile-using-elastic-net-regularized-cox-regression",
@@ -68,5 +68,12 @@
     "title": "Trajectories",
     "section": "",
     "text": "Forest Studio\nAt ETH Zürich, I currently contribute to the development of Forest Studio, a forest dynamics model designed both for teaching and for practical forestry applications.\nThe model simulates forest development at the tree level, incorporating modules for growth, mortality, regeneration, thinning, and clear-cut management. One of its distinguishing features is its focus on individual trees rather than aggregated tree groups, allowing for more flexible and detailed management analysis.\nA central focus of the project is the management component — particularly thinning strategies — which aims to make the model useful not only as an educational tool, but also as a practical decision-support system for forestry practitioners.\nMy work involves model development, data analysis, and the translation of complex modeling concepts into tools that are both technically robust and usable in practice.\n\n\nOther Directions\nMy broader interests lie in the intersection of: - applied modeling, - human behavior, - decision-making, - and communication of complex systems."
+  },
+  {
+    "objectID": "other.html",
+    "href": "other.html",
+    "title": "Beyond Research",
+    "section": "",
+    "text": "During my free time, I like reading, drawing, taking pictures and playing (team) sports."
   }
 ]

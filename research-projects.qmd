@@ -20,7 +20,7 @@ This project studies whether behavioral nudges can increase participation in bre
 
 This project examines how humanized AI avatars and messenger characteristics influence patients’ adherence to post-procedure instructions. The study consists of two randomized experiments focused on communication effectiveness in healthcare contexts.
 
-*Status:* Revise and resubmit at JMIR.
+*Status:* Accepted at JMIR.
 
 ---
 
