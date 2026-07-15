@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "blog/posts/first-post.html",
+    "href": "blog/posts/first-post.html",
+    "title": "My favorites",
+    "section": "",
+    "text": "If you are here to get to know me a bit better, I think a good start is linking papers that I would have loved to write. This can be because of their topics, their methods, or their contribution, among others."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can download my CV here:\nDownload CV"
+  },
+  {
+    "objectID": "other.html",
+    "href": "other.html",
+    "title": "Beyond Research",
+    "section": "",
+    "text": "During my free time, I like reading, drawing, taking pictures and playing (team) sports."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "A collection of everything I consider worth sharing.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy favorites\n\n\n\n\n\n\n\n\nMay 7, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research-projects.html#publications",
+    "href": "research-projects.html#publications",
+    "title": "Research Projects",
+    "section": "Publications",
+    "text": "Publications"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Josefa Cabezas",
+    "section": "",
+    "text": "Hi! I am an applied researcher interested in how simple, behaviorally informed interventions can reduce inequality in education.\nMy background combines field experiments, data work, model development, and research communication. My master’s thesis studied behavioral barriers preventing women from undergoing mammography screening, and I currently work at ETH Zurich supporting data, modelling, and tool development in a research group.\nI am especially interested in experimental economics, economics of education, parental involvement, educational transitions, and interventions that help research travel into practice.\nI strongly believe in clear and simple research communication for a better future.\nThis website collects my CV, research projects, academic and professional trajectory, and occasional reflections on topics I like and am interested in."
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Josefa Cabezas",
+    "section": "Get in Touch",
+    "text": "Get in Touch\nHave questions or want to chat? Feel free to reach out.\njosefacab7@gmail.com"
+  },
+  {
+    "objectID": "trajectories.html",
+    "href": "trajectories.html",
+    "title": "Trajectories",
+    "section": "",
+    "text": "Forest Studio\nAt ETH Zürich, I currently contribute to the development of Forest Studio, a forest dynamics model designed both for teaching and for practical forestry applications.\nThe model simulates forest development at the tree level, incorporating modules for growth, mortality, regeneration, thinning, and clear-cut management. One of its distinguishing features is its focus on individual trees rather than aggregated tree groups, allowing for more flexible and detailed management analysis.\nA central focus of the project is the management component — particularly thinning strategies — which aims to make the model useful not only as an educational tool, but also as a practical decision-support system for forestry practitioners.\nMy work involves model development, data analysis, and the translation of complex modeling concepts into tools that are both technically robust and usable in practice.\n\n\nOther Directions\nMy broader interests lie in the intersection of: - applied modeling, - human behavior, - decision-making, - and communication of complex systems."
+  }
+]
