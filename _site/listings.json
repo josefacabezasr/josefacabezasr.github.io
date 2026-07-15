@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/relections.html",
-    "items": []
-  },
-  {
     "listing": "/blog.html",
     "items": [
       "/blog/posts/first-post.html"

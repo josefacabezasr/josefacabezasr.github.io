@@ -2,34 +2,59 @@
 title: "Research Projects"
 ---
 
-# Current Research
+::: {.section-header}
+## Current Research
+:::
 
-## Behavioral Nudge Field Experiment for Breast Cancer Screening
+::: {.project-card}
+### Behavioral Nudge Field Experiment for Breast Cancer Screening
 
+::: {.collaborators}
 **Collaborators:** D. Schwartz and S. Mondschein
+:::
 
+::: {.description}
 This project studies whether behavioral nudges can increase participation in breast cancer screening programs. Using a field experiment, we evaluate how different communication strategies affect patient engagement and follow-through.
+:::
 
-*Status:* Work in progress.
+::: {.card-actions}
+[Work in Progress]{.badge-wip}
+:::
+:::
 
----
+::: {.project-card}
+### Humanized AI Avatars and Messenger Gender in Dental Post-Procedure Instructions
 
-## Humanized AI Avatars and Messenger Gender in Dental Post-Procedure Instructions
-
+::: {.collaborators}
 **Collaborators:** D. Schwartz and D. Benadof
+:::
 
-This project examines how humanized AI avatars and messenger characteristics influence patients’ adherence to post-procedure instructions. The study consists of two randomized experiments focused on communication effectiveness in healthcare contexts.
+::: {.description}
+This project examines how humanized AI avatars and messenger characteristics influence patients' adherence to post-procedure instructions. The study consists of two randomized experiments focused on communication effectiveness in healthcare contexts.
+:::
 
-*Status:* Accepted at JMIR.
+::: {.card-actions}
+[Accepted at JMIR]{.badge-accepted}
+:::
+:::
 
----
+::: {.section-header}
+## Publications
+:::
 
-# Publications
+::: {.project-card}
+### Identifying Factors Predicting Kidney Graft Survival in Chile Using Elastic-Net-Regularized Cox Regression
 
-## Identifying Factors Predicting Kidney Graft Survival in Chile Using Elastic-Net-Regularized Cox Regression
-
+::: {.collaborators}
 **With:** L. Magga, S. Maturana, M. Olivares, M. Valdevenito, J. Chapochnik, F. González, A. Kompatzki, H. Müller, J. Pefaur, C. Ulloa, and R. Valjalo
+:::
 
-Published in *Medicina* (2022).
+::: {.description}
+This paper develops predictive models for kidney graft survival using regularized survival analysis techniques applied to Chilean transplant data. Published in *Medicina* (2022).
+:::
 
-This paper develops predictive models for kidney graft survival using regularized survival analysis techniques applied to Chilean transplant data.
+::: {.card-actions}
+[Published]{.badge-published}
+[Read Paper](https://www.mdpi.com/1648-9144/58/9/1197){.btn .btn-outline-primary .btn-sm target="_blank"}
+:::
+:::

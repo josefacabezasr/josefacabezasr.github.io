@@ -1,23 +1,37 @@
 ---
 title: "Josefa Cabezas"
+about:
+  template: trestles
+  image: images/josefaProfile.jpg
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/josefacabezasr
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/josefacabezas/
+    - icon: file-earmark-text
+      text: Download CV
+      href: files/JC_CV_2026.pdf
 ---
 
-::: {.columns}
-
-::: {.column width="65%"}
 Hi! I am an applied researcher interested in how simple, behaviorally informed interventions can reduce inequality in education.
 
-My background combines field experiments, data work, model development, and research communication. My master’s thesis studied behavioral barriers preventing women from undergoing mammography screening, and I currently work at ETH Zurich supporting data, modelling, and tool development in a research group.
+My background combines field experiments, data work, model development, and research communication. My master's thesis studied behavioral barriers preventing women from undergoing mammography screening, and I currently work at ETH Zurich supporting data, modelling, and tool development in a research group.
 
-I am especially interested in experimental economics, economics of education, parental involvement, educational transitions, and interventions that help research travel into practice. 
+I am especially interested in experimental economics, economics of education, parental involvement, educational transitions, and interventions that help research travel into practice.
 
 I strongly believe in clear and simple research communication for a better future.
 
 This website collects my CV, research projects, academic and professional trajectory, and occasional reflections on topics I like and am interested in.
-:::
 
-::: {.column width="35%"}
-![](images/josefaProfile.jpg){width=100%}
-:::
+---
 
+::: {.contact-section}
+## Get in Touch
+
+Have questions or want to chat? Feel free to reach out.
+
+[josefacab7@gmail.com](mailto:josefacab7@gmail.com)
 :::

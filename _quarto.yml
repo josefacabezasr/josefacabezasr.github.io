@@ -12,13 +12,23 @@ website:
       - href: cv.qmd
         text: CV
       - href: research-projects.qmd
-        text: Research
-      - href: trajectories.qmd
-        text: Trajectories
+        text: Research Projects
+      # - href: other.qmd
+      #   text: Other Work
       - href: blog.qmd
         text: Blog
+    right:
+      - icon: github
+        href: https://github.com/josefacabezasr
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/josefacabezas/
+        aria-label: LinkedIn
+
+  page-footer:
+    center: "© 2026 Josefa Cabezas · [josefacab7@gmail.com](mailto:josefacabezasr@gmail.com)"
 
 format:
   html:
-    theme: cosmo
-    toc: true
+    theme: [cosmo, custom.scss]
+    toc: false
