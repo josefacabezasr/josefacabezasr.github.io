@@ -15,8 +15,8 @@ website:
         text: Research Projects
       # - href: other.qmd
       #   text: Other Work
-      - href: blog.qmd
-        text: Blog
+      # - href: blog.qmd
+      #   text: Blog
     right:
       - icon: github
         href: https://github.com/josefacabezasr
