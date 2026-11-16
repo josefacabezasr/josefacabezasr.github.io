@@ -1,7 +1,0 @@
----
-title: "CV"
----
-
-You can download my CV here:
-
-[Download CV](files/JC_CV_11_2026_website.pdf)

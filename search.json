@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "blog/posts/first-post.html",
+    "href": "blog/posts/first-post.html",
+    "title": "My favorites",
+    "section": "",
+    "text": "If you are here to get to know me a bit better, I think a good start is linking papers that I would have loved to write. This can be because of their topics, their methods, or their contribution, among others."
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
@@ -18,7 +25,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "A collection of everything I consider worth sharing.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy journey\n\n\n\n\n\n\n\n\nMay 7, 2026\n\n\n\n\n\nNo matching items"
+    "text": "A collection of everything I consider worth sharing.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy favorites\n\n\n\n\n\n\n\n\nMay 7, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research-projects.html#publications",
